@@ -24,7 +24,7 @@
 ## 🚀 About Me
 
 - 🎓 Student passionate about software development
-- 💻 Interested in Full Stack Development, AI and emerging technologies
+- 💻 Interested in Data Analytics, AI and emerging engineering technologies
 - 🔭 Currently working on interesting projects and exploring new technologies
 - 🌱 Always learning and improving my development skills
 - 🤝 Open to collaboration and exciting projects
