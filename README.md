@@ -1,16 +1,69 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**visheshjangir9/visheshjangir9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vishesh Jangir 👋
 
-Here are some ideas to get you started:
+### Student | Developer | AI & Technology Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🛠️ Languages and Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mongodb,mysql,git,github,vscode,docker,kubernetes,firebase,postman&perline=8" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Student passionate about software development
+- 💻 Interested in Full Stack Development, AI and emerging technologies
+- 🔭 Currently working on interesting projects and exploring new technologies
+- 🌱 Always learning and improving my development skills
+- 🤝 Open to collaboration and exciting projects
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=visheshjangir9&show_icons=true&theme=dark&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=visheshjangir9&theme=dark&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=visheshjangir9&theme=github-dark&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/visheshjangir9">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
