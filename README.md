@@ -28,27 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=visheshjangir9&show_icons=true&theme=dark&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=visheshjangir9&theme=dark&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=visheshjangir9&theme=github-dark&hide_border=true" />
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
